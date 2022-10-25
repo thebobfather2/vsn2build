@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.40c3b84c.css",
-    "main.js": "/static/js/main.66c76921.js",
+    "main.css": "/static/css/main.cd4ae73a.css",
+    "main.js": "/static/js/main.a0e6fc61.js",
     "static/js/755.b1817c2a.chunk.js": "/static/js/755.b1817c2a.chunk.js",
+    "static/media/vsn.png": "/static/media/vsn.a78bd94a5ebb6a93647e.png",
     "static/media/twitter.png": "/static/media/twitter.cdf14643d08e6a561c54.png",
     "static/media/Cyber_Moon.jpg": "/static/media/Cyber_Moon.ef5683c4c80d6e85ac55.jpg",
     "static/media/twitch.png": "/static/media/twitch.8a8867ce33194f2d1394.png",
     "static/media/youtube.png": "/static/media/youtube.d8a432522f2aef61d03e.png",
     "static/media/vsn.jpg": "/static/media/vsn.8f5e95d235c3761e3310.jpg",
     "index.html": "/index.html",
-    "main.40c3b84c.css.map": "/static/css/main.40c3b84c.css.map",
-    "main.66c76921.js.map": "/static/js/main.66c76921.js.map",
+    "main.cd4ae73a.css.map": "/static/css/main.cd4ae73a.css.map",
+    "main.a0e6fc61.js.map": "/static/js/main.a0e6fc61.js.map",
     "755.b1817c2a.chunk.js.map": "/static/js/755.b1817c2a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40c3b84c.css",
-    "static/js/main.66c76921.js"
+    "static/css/main.cd4ae73a.css",
+    "static/js/main.a0e6fc61.js"
   ]
 }
